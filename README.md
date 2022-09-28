@@ -1,2 +1,2 @@
-# SoC-Now-Overview
-Overview of SoC-Now - Web based RISC-V SoC Generator by MERL-UITU
+# SoC-Now
+<img src="https://github.com/merledu/SoC-Now-Generator/blob/main/blockDiagramv2.jpeg" />
